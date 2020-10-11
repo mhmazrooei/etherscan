@@ -1,0 +1,12 @@
+{
+    "name": "mhmazrooei/etherscan",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Hasan Mazrooei",
+            "email": "mazrooei.mh@gmail.com"
+        }
+    ],
+    "require": {}
+}
