@@ -1,5 +1,6 @@
 {
     "name": "mhmazrooei/etherscan",
+    "description": "A PHP Wrapper for Etherscan API",
     "type": "library",
     "license": "MIT",
     "authors": [
