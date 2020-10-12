@@ -1,2 +1,5 @@
 # PHPStorm Project Files
 /.idea
+
+/vendor
+/composer.lock
